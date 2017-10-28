@@ -1,0 +1,2 @@
+# restart_Python_hanged_multiProcessed
+restart_Python_hanged_multiProcessed to complete the process
